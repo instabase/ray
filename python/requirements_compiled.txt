@@ -2253,7 +2253,7 @@ torchvision==0.15.2
     # via
     #   -r /ray/ci/../python/requirements/ml/dl-cpu-requirements.txt
     #   timm
-tornado==6.1
+tornado==6.4.2
     # via
     #   bokeh
     #   distributed
