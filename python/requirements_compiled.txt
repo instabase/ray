@@ -953,7 +953,7 @@ jupytext==1.13.6
     # via -r /ray/ci/../python/requirements/test-requirements.txt
 kaggle-environments==1.7.11
     # via -r /ray/ci/../python/requirements/ml/rllib-test-requirements.txt
-keras==2.11.0
+keras==3.8.0
     # via tensorflow
 kiwisolver==1.4.5
     # via matplotlib
